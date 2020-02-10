@@ -13,7 +13,22 @@ Guía de instalación IBM Integration Bus
 
 Descomprimimos el instalador y buscamos el archivo `IIBSetup10.0.0.7`. 
 
-![](https://raw.githubusercontent.com/rocio-mardones/integration_bus_installation/master/img1.PNG)
+![](https://raw.githubusercontent.com/rocio-mardones/integration_bus_installation/readme-edits/img1.PNG)
 
 y comenzamos la instalación.
+
+![](https://raw.githubusercontent.com/rocio-mardones/integration_bus_installation/readme-edits/img2.PNG)
+
+No es necesario configurar directorio, ni nada mas.
+
+![](https://raw.githubusercontent.com/rocio-mardones/integration_bus_installation/readme-edits/img3.PNG)
+
+Este instalador, instala IBM Integration Toolkit (el IDE de desarrollo) y un runtime local.
+
+![](https://raw.githubusercontent.com/rocio-mardones/integration_bus_installation/readme-edits/img4.PNG)
+
+Abrimos el toolkit:
+
+
+
 
